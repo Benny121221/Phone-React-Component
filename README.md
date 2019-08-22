@@ -1,3 +1,4 @@
+
 # Phone React Component
  
  [Link to Screenshot](https://imgur.com/peoRBmB)
@@ -16,3 +17,9 @@
 	    <h1>Shrunken size, suitable for smaller graphics</h1>
 	    <p>Exact same rules as before</p>
 	</Phone>
+
+
+### Not a typescript fan?
+
+No problem, just use `index.js` instead. If you import only the folder: 
+`import Phone from "../ext/components/Phone"`, it will automatically use the JavaScript version anyways. There are no differences between the two, the JS is just the compiled version.

@@ -1,0 +1,51 @@
+﻿
+.phone-container {
+    width: 400px;
+    height: 700px;
+    border: 10px solid black;
+    border-radius: 15px;
+    padding: 7px;
+}
+
+.phone-bottom {
+    background-color: black;
+    margin: -7px;
+    margin-top: 0px;
+    height: 80px;
+}
+
+.phone-top {
+    background-color: black;
+    position: relative;
+    top: 0px;
+    margin: -7px;
+    margin-bottom: 7px;
+    height: 60px;
+}
+
+.speaker {
+    background-color: grey;
+    width: 300px;
+    height: 5px;
+    border-radius: 10px;
+    position: absolute;
+    top:40px;
+    left: 60px;
+    z-index: 2;
+}
+
+.phone-container .home-button {
+    background-color: grey;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    position: absolute;
+    z-index: 2;
+    top: 632px;
+    left: 190px
+}
+
+.screen-content {
+    overflow:auto;
+    height:542px;
+}

@@ -1,9 +1,8 @@
 # Phone React Component
  
+ [Link to Screenshot](https://imgur.com/peoRBmB)
+ 
 ## Easy, free use
-[Link to Screenshot](https://imgur.com/peoRBmB)
-![Screenshot](https://imgur.com/peoRBmB)
-
     <Phone>
 	    <h1>Phone Content Here</h1>
 	    <p>

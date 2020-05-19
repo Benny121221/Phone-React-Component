@@ -1,5 +1,16 @@
 
 # Phone React Component
+
+**WARNING, this repo is *deprecated***
+
+**If you want to make use of this component, it has been ported over to the package `dashboard-widgets`:**
+
+- NPM: https://www.npmjs.com/package/dashboard-widgets
+- Github: https://github.com/Benny121221/dashboard-widgets
+
+**That package is the only recommended way to use this component. This repository will not be deleted, but it also will not be maintained.**
+
+## Your regularly scheduled documentation:
  
  [Link to Screenshot](https://imgur.com/peoRBmB)
  
